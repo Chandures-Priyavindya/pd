@@ -1,0 +1,26 @@
+﻿# Node / Frontend
+node_modules/
+dist/
+frontend/node_modules/
+frontend/dist/
+
+# Java / Backend
+*.class
+target/
+backend/target/
+
+# SQLite database
+database/pdsa_game_system.db
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+
+# Logs
+*.log
